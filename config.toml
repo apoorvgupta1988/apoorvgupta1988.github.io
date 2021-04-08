@@ -1,0 +1,11 @@
+relativeURLs = true
+title = "Apoorv Gupta"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "Assistant Professor of Economics, Dartmouth College"
+    logo = "ag.jpg" 
+    
